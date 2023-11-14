@@ -1,0 +1,127 @@
+        <!-- <div class="row mt-4"> <!-- Parent -->
+    <div class="col-md-3"> <!-- Parent -->
+        <div class="card" style="width: 15rem;"> <!-- Parent -->
+            <img class="card-img-top" src="img/thor.jpg" alt="Card image cap"> <!-- Enfant -->
+            <div class="card-body"> <!-- Enfant -->
+                <h5 class="card-title text-center" style="height: 50px;">THOR - RAGNAROK</h5> <!-- Enfant -->
+                <p style="max-height: 150px; overflow: auto;"></p> <!-- Enfant -->
+            </div>
+            <ul class="list-group list-group-flush"> <!-- Enfant -->
+                <li class="list-group-item text-center"><strong>Acteurs</strong></li> <!-- Enfant -->
+                <li class="list-group-item text-center">Chris Hemsworth</li> <!-- Enfant -->
+                <li class="list-group-item text-center">Cate Blanchett</li> <!-- Enfant -->
+                <li class="list-group-item text-center">Tessa Thompson</li> <!-- Enfant -->
+                <li class="list-group-item text-center"><strong>Réalisateur</strong></li> <!-- Enfant -->
+                <li class="list-group-item text-center">Taika Waititi</li> <!-- Enfant -->
+                <li class="list-group-item text-center">25-10-2017</li> <!-- Enfant -->
+            </ul>
+            <div class="card-body"> <!-- Enfant -->
+                <div class="logo"> <!-- Enfant -->
+                    <div class="circle-icon"> <!-- Enfant -->
+                        <i class='bx bxs-pencil display-6'></i> <!-- Enfant -->
+                    </div>
+                    <div class="circle-icon"> <!-- Enfant -->
+                        <i class='bx bxs-message-square-x display-6'></i> <!-- Enfant -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+ -->
+            <!-- <div class="col-md-3">
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="img/captain.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title text-center" style="height: 50px;">CAPTAIN AMERICA - THE WINTER SOLDIER
+                        </h5>
+                        <p style="max-height: 150px; overflow: auto;">Après les événements cataclysmiques de New York de
+                            The Avengers, Steve Rogers aka Captain America vit tranquillement à Washington, D.C. et
+                            essaye de s'adapter au monde moderne. Mais quand un collègue du S.H.I.E.L.D. est attaqué,
+                            Steve se retrouve impliqué dans un réseau d'intrigues qui met le monde en danger.
+                            S'associant à Black Widow, Captain America lutte pour dénoncer une conspiration
+                            grandissante, tout en repoussant des tueurs professionnels envoyés pour le faire taire.
+                            Quand l'étendue du plan maléfique est révélée, Captain America et Black Widow sollicite
+                            l'aide d'un nouvel allié, le Faucon. Cependant, ils se retrouvent bientôt face à un
+                            inattendu et redoutable ennemi - le Soldat de l'Hiver</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item text-center"><strong>Acteurs</strong></li>
+                        <li class="list-group-item text-center">Chris Evans</li>
+                        <li class="list-group-item text-center">Scarlett Johansson</li>
+                        <li class="list-group-item text-center">Anthony Mackie</li>
+                        <li class="list-group-item text-center"><strong>Réalisateur</strong></li>
+                        <li class="list-group-item text-center">Anthony Russo</li>
+                    </ul>
+                    <div class="card-body">
+                        <div class="logo">
+                            <div class="circle-icon ">
+                                <i class='bx bxs-pencil display-6'></i>
+                            </div>
+                            <div class="circle-icon ">
+                                <i class='bx bxs-message-square-x display-6'></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <!-- <div class="col-md-3">
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="img/marvels.jpg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title text-center" style="height: 50px;">CAPTAIN MARVEL</h5>
+                        <p style="max-height: 150px; overflow: auto;">Captain Marvel raconte l’histoire de Carol Danvers
+                            qui va devenir l’une des super-héroïnes les plus puissantes de l’univers lorsque la Terre se
+                            révèle l’enjeu d’une guerre galactique entre deux races extraterrestres.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item text-center"><strong>Acteurs</strong></li>
+                        <li class="list-group-item text-center">Brie Larson</li>
+                        <li class="list-group-item text-center">Samuel L. Jackson</li>
+                        <li class="list-group-item text-center">Jude Law</li>
+                        <li class="list-group-item text-center"><strong>Réalisateur</strong></li>
+                        <li class="list-group-item text-center">Anna Boden</li>
+                    </ul>
+                    <div class="card-body">
+                        <div class="logo">
+                            <div class="circle-icon ">
+                                <i class='bx bxs-pencil display-6'></i>
+                            </div>
+                            <div class="circle-icon ">
+                                <i class='bx bxs-message-square-x display-6'></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->
+            <!-- <div class="col-md-3">
+                <div class="card" style="width: 15rem;">
+                    <img class="card-img-top" src="img/black.jpeg" alt="Card image cap">
+                    <div class="card-body">
+                        <h5 class="card-title text-center" style="height: 50px;">BLACK WIDOW</h5>
+                        <p style="max-height: 150px; overflow: auto;">Natasha Romanoff, alias Black Widow, voit resurgir
+                            la part la plus sombre de son passé pour faire face à une redoutable conspiration liée à sa
+                            vie d’autrefois. Poursuivie par une force qui ne reculera devant rien pour l’abattre,
+                            Natasha doit renouer avec ses activités d’espionne et avec des liens qui furent brisés, bien
+                            avant qu’elle ne rejoigne les Avengers.</p>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item text-center"><strong>Acteurs</strong></li>
+                        <li class="list-group-item text-center">Scarlett Johansson</li>
+                        <li class="list-group-item text-center">Florence Pugh</li>
+                        <li class="list-group-item text-center">Rachel Weisz</li>
+                        <li class="list-group-item text-center"><strong>Réalisateur</strong></li>
+                        <li class="list-group-item text-center">Eric Pearson</li>
+                    </ul>
+                    <div class="card-body">
+                        <div class="logo">
+                            <div class="circle-icon ">
+                                <i class='bx bxs-pencil display-6'></i>
+                            </div>
+                            <div class="circle-icon ">
+                                <i class='bx bxs-message-square-x display-6'></i>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div> -->

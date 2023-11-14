@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Mon Projet</title>
+
+  <!-- Lien vers Bootstrap CSS -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+
+  <style>
+
+
+
+    nav {
+      background-color: #000; 
+      padding: 10px;
+    }
+
+    h1 {
+      color: white;
+    }
+
+    body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+    }
+
+    thead {
+        background-color: #000;
+        color: white;
+    }
+  </style>
+</head>
+
+<body>
+
+
+<nav class="navbar navbar-expand-lg navbar-dark">
+    <h1 class="mr-auto">Contacts</h1> 
+    <button class="btn btn-warning" id="btnElement">Ajouter</button>
+
+  </nav>
+  
+  
+
+  <div class="container center-container mt-5">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="form-group">
+          <input type="text" class="form-control" id="nomInput" placeholder="Nom">
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="form-group">
+          <input type="text" class="form-control" id="prenomInput" placeholder="Prénom">
+        </div>
+      </div>
+    </div>
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <div class="form-group">
+          <input type="number" class="form-control" id="ageInput" placeholder="Âge">
+        </div>
+      </div>
+    </div>
+  </div>
+  
+
+  <div class="container mt-3">
+    <div class="row justify-content-center">
+      <div class="col-md-8">
+        <table class="table table-bordered text-center" id="table">
+          <thead class="">
+            <tr>
+              <th scope="col">id</th>
+              <th scope="col">Nom</th>
+              <th scope="col">Prénom</th>
+              <th scope="col">Âge</th>
+              <th scope="col">Supprimer</th>
+              <th scope="col">Modifier</th>
+            </tr>
+          </thead>
+          <tbody>
+            <!-- Vos lignes de tableau seront ajoutées ici -->
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </div>
+  <div id="error" class="error"></div>
+
+
+  <script src="asset/main.js"></script>
+
+</body>
+
+</html>
